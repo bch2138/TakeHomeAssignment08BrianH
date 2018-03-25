@@ -1,0 +1,20 @@
+<resources>
+    <string name="app_name">Hyland Sporting News</string>
+        <string name="question_football">New England Patriots:  37  Washington Redskins: 45</string>
+        <string name="question_baseball">New York Yankees: 5  Kansas City Royals: 10.</string>
+        <string name="question_pingpong">World Championship of Ping Pong postponed due to typhoon flooding.</string>
+        <string name="question_basketball">The Boston Celtics are on a 45 game winning streak!</string>
+        <string name="question_tennis">Martina Navratolova files complaint that John McEnroe is paid ten times more than her.</string>
+        <string name="question_soccer">FIFA found to be a completely corrupt organization.</string>
+        <string name="false_toast">FALSE</string>
+        <string name="warning_text">Are You Sure You Want to Do This?</string>
+        <string name="show_answer_button">Show Answer</string>
+        <string name="cheat_button">Cheat!</string>
+        <string name="judgment_toast">Cheating is wrong!</string>
+        <string name="football">Football</string>
+        <string name="baseball">Baseball</string>
+        <string name="pingpong">Ping Pong</string>
+        <string name="basketball">Basketball</string>
+        <string name="tennis">Tennis</string>
+        <string name="soccer">Soccer</string>
+    </resources>
